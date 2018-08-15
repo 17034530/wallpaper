@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wallpaper</string>
+    <string name="good">You have a good taste!</string>
+    <string name="bad">Bro, think twice about it.</string>
+</resources>
